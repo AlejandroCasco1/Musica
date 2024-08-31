@@ -1,0 +1,3 @@
+(Producto 1, 59.00, https://github.com/AlejandroCasco1/Musica/blob/main/Productos/1.jpg)
+(Producto 2, 86.65, https://github.com/AlejandroCasco1/Musica/blob/main/Productos/2.jpg)
+(Producto 3, 109.50, https://github.com/AlejandroCasco1/Musica/blob/main/Productos/3.jpg)
