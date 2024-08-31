@@ -1,3 +1,3 @@
-Producto 1, 44.25, https://raw.githubusercontent.com/AlejandroCasco1/Musica/main/Productos/1.jpg
-Producto 2, 88.25, https://raw.githubusercontent.com/AlejandroCasco1/Musica/main/Productos/2.jpg
-Producto 3, 105.35, https://raw.githubusercontent.com/AlejandroCasco1/Musica/main/Productos/3.jpg
+Producto 1, $44.25, https://raw.githubusercontent.com/AlejandroCasco1/Musica/main/Productos/1.jpg
+Producto 2, $88.25, https://raw.githubusercontent.com/AlejandroCasco1/Musica/main/Productos/2.jpg
+Producto 3, $105.35, https://raw.githubusercontent.com/AlejandroCasco1/Musica/main/Productos/3.jpg
