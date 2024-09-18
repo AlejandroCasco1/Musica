@@ -6,8 +6,9 @@ https://api.github.com/repos/AlejandroCasco1/Musica/contents/Variado
 https://api.github.com/repos/AlejandroCasco1/Musica/contents/Deftones
 https://api.github.com/repos/AlejandroCasco1/Musica/contents/Mudvayne
 https://api.github.com/repos/AlejandroCasco1/Musica/contents/Cuarteto
-https://api.github.com/repos/AlejandroCasco1/Musica/contents/Mix2000
 https://api.github.com/repos/AlejandroCasco1/Musica/contents/Rap
+https://api.github.com/repos/AlejandroCasco1/Musica/contents/Almafuerte
 https://api.github.com/repos/AlejandroCasco1/Musica/contents/Redonditos
 https://api.github.com/repos/AlejandroCasco1/Musica/contents/Oconnor
 https://api.github.com/repos/AlejandroCasco1/Musica/contents/LaRenga
+https://api.github.com/repos/AlejandroCasco1/Musica/contents/Mix2000
